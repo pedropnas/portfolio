@@ -1,0 +1,41 @@
+body {
+    padding: 25px;
+    background-color: white;
+    color: black;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.dark-mode {
+    background-color: black;
+    color: white;
+}
+
+.light-mode {
+    background-color: white;
+    color: black;
+}
+
+.red-font {
+    color: red;
+}
+
+.blue-font {
+    color: blue;
+}
+
+.green-font {
+    color: green;
+}
+
+.font12 {
+    font-size: 12px;
+}
+
+.font20 {
+    font-size: 20px;
+}
+
+.font36 {
+    font-size: 36px;
+}
